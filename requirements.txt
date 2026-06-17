@@ -3,6 +3,14 @@ langchain
 langchain-community
 langchain-text-splitters
 langchain-huggingface
+langchain-groq
 faiss-cpu
 pypdf
 sentence-transformers
+transformers
+torch
+huggingface_hub
+groq
+langsmith
+python-dotenv
+tiktoken
